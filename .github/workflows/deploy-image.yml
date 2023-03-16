@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ghcr.io/swapnil-gohil/demo-package-repo:1.0.0
+  IMAGE_NAME: swapnil-gohil/demo-package-repo:1.0.0
 
 jobs:
   build-and-push-image:
