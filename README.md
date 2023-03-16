@@ -1,1 +1,1 @@
-# demo-package-repo
+# demo-package-repos
